@@ -2,9 +2,13 @@
 
 ### Introduction
 ![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/4440.jpeg)
+##### Photo Source: Google
 
 ### About Adventure Works
 The Adventure Works database is a fictitious company that sells bicycles, bicycle components, and accessories to consumers, retailers, and wholesalers. It contains tables for sales orders, customers, products, employees, and other business entities.
+
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/New-bikes-chicago.jpeg))
+##### Photo Source: Google
 
 ### About the Project
 Customer spending pattern analysis is the process of analyzing and understanding how customers spend their money on products and services offered by a business. This analysis can provide valuable insights into consumer behavior, preferences, and purchasing habits, which can help businesses optimize their marketing strategies, improve customer engagement, and increase revenue.
@@ -55,21 +59,36 @@ The analysis was done based on the views that were created in Microsoft SQL serv
 
 ### Insight and Visualization
 
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Revenue%20By%20Product%20Category.png)
+
 * In the product category, sales of bike generated the highest revenue of $94.65M followed by sales of components which generated $11.48M
 
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Average%20Processing%20time%20by%20product%20category.png)
+
 * The average processing time for all products is 7 days
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Count%20of%20Order%20By%20Year.png)
 
 * Within the four years covered in this analysis, 2013 was the year that recorded the highest number of orders of 14200, followed by 2014 which recorded 11800 orders.
 
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Average%20Order%20Value%20and%20Count%20of%20Customer%20by%20Country.png)
+
 * France had the highest Average order value and Australia recorded the highest customer count.
 
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Total%20Revenue%20by%20Year.png)
+
 * The number of orders definitely affected the revenue, hence, 2013 generated the highest revenue of $49M.
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Total%20Revenue%20By%20Country.png)
 
 * USA is the country that generated the highest revenue.
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Top%205%20Customer%20Id%20by%20Revenue.png)
 
 * The customer with the ID 29818 generated the highest revenue of $989,180.00
 
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/Purchase%20Frequency%20By%20CustomerID.png)
+
 * The customer with the ID 29818 had the highest purchase frequency of 28
+
+![]()
 
 ### Recommendation
 * Adventure works should identify the most profitable customers and offer them personalized deals or loyalty programs to encourage repeat purchases.
