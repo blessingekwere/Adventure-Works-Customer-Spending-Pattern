@@ -90,6 +90,7 @@ The analysis was done based on the views that were created in Microsoft SQL serv
 * The customer with the ID 29818 had the highest purchase frequency of 28
 
 ![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/customer%20spending%20pattern%202_page-0001.jpg)
+##### Adventure Works Customer Spending Pattern Report
 
 ### Recommendation
 * Adventure works should identify the most profitable customers and offer them personalized deals or loyalty programs to encourage repeat purchases.
