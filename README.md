@@ -101,7 +101,9 @@ The analysis was done based on the views that were created in Microsoft SQL serv
 * Customer spending patterns should continuously be monitored and analyzed to identify new opportunities for growth or improvement.
 
 ***The End***
+
 Thank you so much for reading and going through this project
+
 Your comments and recommendations will be highly appreciated 💖:
 
 
