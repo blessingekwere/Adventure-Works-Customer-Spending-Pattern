@@ -101,7 +101,7 @@ The analysis was done based on the views that were created in Microsoft SQL serv
 
 ***The End***
 Thank you so much for reading and going through this project
-Your comments and recommendations will be highly appreciated :blush:
+Your comments and recommendations will be highly appreciated 💖:
 
 
 
