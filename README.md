@@ -41,13 +41,14 @@ The tools used for this project are **Microsoft SQL Server** and **Power BI**
 
 ### Data Transformation/Modelling
 After restoring the Adventure Works database into Microsoft SQL Server, it was time for me to write queries which will help answer the questions for my analysis. Out of the 71 tables in the database, I used only 7 tables for my analysis and they are
-1. Sales.SalesOrderHeader
-2. Sales.Customer
-3. Sales.SalesTerriitory
-4. Sales.SalesorderDetails
-5. Production.Product
-6. Production.SubCategory
-7. Production.ProductCategory
+* Sales.SalesOrderHeader
+* Sales.Customer
+* Sales.SalesTerriitory
+* Sales.SalesorderDetails
+* Production.Product
+* Production.SubCategory
+* Production.ProductCategory
+
 After writing the queries on Microsoft SQL server, I created views for all the queries I written.
 Then I launched my Power BI, clicked on the get data button and clicked on SQL database, then I connected my SQL server to Power BI by imputing my Microsoft SQL server name and the database I needed to extract information from and connected.
 After the connection was established, I selected the views which I had earlier created in Microsoft SQL server.
