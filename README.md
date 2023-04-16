@@ -33,7 +33,7 @@ I demonstrated a few skills in the execution of this project and they are:
 * Data Retrieval and Extraction.
 * Data Querying, Cleaning and Transformation
 * DAX
-* Data Visualization:
+* Data Visualization
 * Business Intelligence
 
 ### Tools Used
