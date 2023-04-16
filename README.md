@@ -88,7 +88,7 @@ The analysis was done based on the views that were created in Microsoft SQL serv
 
 * The customer with the ID 29818 had the highest purchase frequency of 28
 
-![]()
+![](https://github.com/blessingekwere/Adventure-Works-Customer-Spending-Pattern/blob/main/customer%20spending%20pattern%202_page-0001.jpg)
 
 ### Recommendation
 * Adventure works should identify the most profitable customers and offer them personalized deals or loyalty programs to encourage repeat purchases.
@@ -98,6 +98,10 @@ The analysis was done based on the views that were created in Microsoft SQL serv
 * Consider upselling or cross-selling opportunities to customers who have purchased a particular product or service.
 * Better ways to reduce costs should be considered without sacrificing quality, such as negotiating better prices with suppliers or optimizing inventory management.
 * Customer spending patterns should continuously be monitored and analyzed to identify new opportunities for growth or improvement.
+
+***The End***
+Thank you so much for reading and going through this project
+Your comments and recommendations will be highly appreciated :blush:
 
 
 
