@@ -101,6 +101,8 @@ The analysis was done based on the views that were created in Microsoft SQL serv
 * Better ways to reduce costs should be considered without sacrificing quality, such as negotiating better prices with suppliers or optimizing inventory management.
 * Customer spending patterns should continuously be monitored and analyzed to identify new opportunities for growth or improvement.
 
+Kindly find the link to the report [here](https://app.powerbi.com/groups/me/reports/bba24acc-f378-4290-9fff-e52c434f4bf0/ReportSection)
+
 ***The End***
 
 Thank you so much for reading and going through this project
